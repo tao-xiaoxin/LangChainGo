@@ -52,6 +52,12 @@ LangChainGo/
 5. **代理构建**：创建智能代理以完成复杂任务
 6. **应用开发**：构建完整的LangChain应用
 
+## 算力资源
+
+本项目开发使用的是腾讯云CloudStudio提供的开发环境和算力资源。在此特别感谢腾讯云CloudStudio每月提供的一万分钟免费算力支持，这大大便利了项目的开发和测试过程。
+
+- 腾讯云CloudStudio: [https://ide.cloud.tencent.com/dashboard/](https://ide.cloud.tencent.com/dashboard/)
+
 ## 贡献
 
 欢迎来自社区的贡献！如果你有示例、教程或改进意见要分享，请提交一个拉取请求。对于重大更改，请先开启一个议题来讨论你想要更改的内容。
