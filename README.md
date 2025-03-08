@@ -38,7 +38,7 @@ LangChainGo旨在提供一个全面的学习体验，通过各种示例、教程
 
 ```
 LangChainGo/
-├── docs              # 文档图片
+├── images            # 文档图片
 ├── requirements.txt  # 项目依赖
 └── README.md         # 项目说明
 ```
