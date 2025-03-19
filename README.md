@@ -30,11 +30,9 @@ LangChainGo旨在提供一个全面的学习体验，通过各种示例、教程
 
 3. **设置环境变量**：
    ```bash
-   cd examples
-   python example_script.py
+   cd .env.example .env
    ```
 4. 上述开发环境安装完成，使用`Miniconda`安装和配置 `Jupyter Lab`（可选），安装 `Jupyter Lab`：
-5. 
    ```
    conda install -c conda-forge jupyterlab
    ```

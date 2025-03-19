@@ -12,9 +12,9 @@ load_dotenv(ENV_PATH)
 
 # 配置访问器
 class Config:
-    API_KEY: str = os.getenv("OPENAI_API_KEY")
-    API_BASE: str = os.getenv("OPENAI_API_BASE", "http://127.0.0.1:8434/v1/")
-    MODEL_NAME: str = os.getenv("OPENAI_MODEL_NAME", "qwq:32b")
+    OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY")
+    OPENAI_API_BASE: str = os.getenv("OPENAI_API_BASE", "http://127.0.0.1:8434/v1/")
+    OPENAI_MODEL_NAME: str = os.getenv("OPENAI_MODEL_NAME", "qwq:32b")
 
 
 # 导出配置
