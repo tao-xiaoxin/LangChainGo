@@ -7,7 +7,7 @@
 
 大语言模型并不完全理解语言，它们没有人类的情感、意识或理解力。**它们只是通过复杂的数学函数学习到的语言模式，一个概率模型来做预测**，所以有时候它们会犯错误，或者生成不合理甚至偏离主题的内容。
 
-![模型预测](/Users/thinkook/workspace/PythonProjects/LangChainGo/01-LangChain快速入门/images/5730e6debb8c1a0876f79814c0fb78e5.png)
+![模型预测](http://billy.taoxiaoxin.club/md/2025/03/546630a6735808692557e8152ac94959.png)
 
 ## 二、LangChain 基本介绍
 
@@ -17,7 +17,7 @@ LangChain 是一个全方位的、基于大语言模型这种预测能力的应�
 + **具有上下文感知能力**：将语言模型连接到上下文来源（提示指令，少量的示例，需要回应的内容等）
 + **具有推理能力**：依赖语言模型进行推理（根据提供的上下文如何回答，采取什么行动等）
 
-![LangChain 的标志，我想是1只能说会道的鹦鹉+1个链条](/Users/thinkook/workspace/PythonProjects/LangChainGo/01-LangChain快速入门/images/6259a17134fd5a080fc3d9856a08050c.png)
+![LangChain 的标志，我想是1只能说会道的鹦鹉+1个链条](http://billy.taoxiaoxin.club/md/2025/03/5d9c0afab907e232a7cd910464173b73.png)
 
 ### 2.2 架构
 
@@ -37,7 +37,7 @@ LangChain 简化了 LLM 应用程序生命周期的每个阶段
 - **生产化**：使用[LangSmith](https://docs.smith.langchain.com/)检查、监控和评估您的应用程序，以便您可以持续优化并充满信心地部署。
 - **部署**：使用[LangGraph 平台](https://github.langchain.ac.cn/langgraph/cloud/)将您的 LangGraph 应用程序转换为可用于生产的 API 和助手。
 
-![LLM 应用程序生命周期](http://image.taoxiaoxin.club/api/v1/image/10e8cf6fbdaf092980e01981649555dc)
+![LLM 应用程序生命周期](http://billy.taoxiaoxin.club/md/2025/03/10e8cf6fbdaf092980e01981649555dc.png)
 
 
 ### 2.4 相关文档
@@ -70,11 +70,11 @@ LangChain 简化了 LLM 应用程序生命周期的每个阶段
 
 选择使用`QwQ-32B` 模型模板，点击创建即可。
 
-![QwQ-32B模型模版](./images/腾讯云模板.png)
+![QwQ-32B模型模版](http://billy.taoxiaoxin.club/md/2025/03/0e6be992588bd4c1b3de46fef1fba2d6.png)
 
 生成并复制ssh 链接。
-![ssh链接生成](./images/ssh链接生成.png)
-![QwQ-32B模型模版](./images/复制ssh链接.png)
+![ssh链接生成](http://billy.taoxiaoxin.club/md/2025/03/f15ca6c7771ecf2d0e7c3a6e71e4bc8d.png)
+![QwQ-32B模型模版](http://billy.taoxiaoxin.club/md/2025/03/9a4516b1d31d95efce986ca9f05b4817.png)
 
 
 接着先验证下能否ssh，从上边复制出来的：
